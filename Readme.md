@@ -35,5 +35,6 @@ mvn spring-boot:run
 ## Learn More
 
 You can find the tutorial for this application on my blog -
-
 https://www.callicoder.com/spring-boot-websocket-chat-example/
+Make this app dockerize with docker build
+https://www.callicoder.com/spring-boot-docker-example/
